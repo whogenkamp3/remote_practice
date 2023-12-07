@@ -1,3 +1,0 @@
-This is file 3 from the feature branch
-I will be deleted
-Please add me to the master
