@@ -8,3 +8,5 @@
 
 ## adding in the feature branch
 # feature branch
+
+# no fastforward merge
